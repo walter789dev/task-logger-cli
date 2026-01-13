@@ -1,0 +1,18 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno (¡Muy importante por seguridad!)
+.env
+.env.local
+
+# Carpetas de compilación (Build)
+dist/
+build/
+
+# Archivos de log
+npm-debug.log*
+yarn-error.log*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
